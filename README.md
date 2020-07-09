@@ -10,3 +10,5 @@ Javascript - HTML - CSS
 - The first player to reach 100 points on GLOBAL score wins the game
 
 ### [You can check the project here!](http://https://thatacello.github.io/Dice-Game-Javascript/ "You can check the project here!")
+
+![Pig Game / Dice Game](https://github.com/thatacello/Dice-Game-Javascript/blob/master/pig%20game.png?raw=true "Pig Game / Dice Game")
